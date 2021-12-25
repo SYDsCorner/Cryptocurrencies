@@ -6,7 +6,7 @@
 ### Purpose:
 
    The purpose of this analysis is to use unsupervised machine learning techniques is used for, preprocessing the data for PCA, reducing data dimensions using PCA, 
-clustering cryptocurrencies using K-means, visualizing cryptocurrencies results.   
+clustering cryptocurrencies using K-means, and visualizing cryptocurrencies results.   
   
  
 ## Resources
