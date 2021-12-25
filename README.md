@@ -62,13 +62,16 @@ clustering cryptocurrencies using K-means, and visualizing cryptocurrencies resu
    - Create a **3D-Scatter** with the PCA data and the clusters
    ![4 1](https://user-images.githubusercontent.com/89308251/147378865-0833652b-6379-4548-aa55-8b4a4debf139.jpg)
    
-   - Create a table with tradable cryptocurrencies
-      - There are ***532 tradable cryptocurrencies**
+   - Create a **table with tradable cryptocurrencies**
+      - There are **532** tradable cryptocurrencies
+      
    ![4 2](https://user-images.githubusercontent.com/89308251/147378876-4220d4d1-de8b-495e-9b04-08506c22423f.jpg)
    
    - Scale the data to create the scatter plot with tradable cryptocurrencies
    - Create a new DataFrame that has the scaled data
+   
    - Create a **2D-Scatter** 
+   
    ![4 3](https://user-images.githubusercontent.com/89308251/147378894-bb695bbe-e82f-4fee-b0d1-be21f1ec8a32.png)
 
 
