@@ -50,7 +50,7 @@ clustering cryptocurrencies using K-means, and visualizing cryptocurrencies resu
 ### Deliverable 3: Clustering Cryptocurrencies Using K-means
 
 - **Clustering Cryptocurrencies**
-   - Create an elbow curve to find the best value for K
+   - Create an **elbow curve** to find the best value for K
    ![3](https://user-images.githubusercontent.com/89308251/147378831-b1b531e2-88d7-4e07-9703-a5666ca2c81f.jpg)
    
    - Initialize the K-Means model, Fit the model, Predict clusters
@@ -59,7 +59,7 @@ clustering cryptocurrencies using K-means, and visualizing cryptocurrencies resu
 ### Deliverable 4: Visualizing Cryptocurrencies Results 
 
 - **Visualizing Cryptocurrencies**
-   - Create a 3D-Scatter with the PCA data and the clusters
+   - Create a **3D-Scatter** with the PCA data and the clusters
    ![4 1](https://user-images.githubusercontent.com/89308251/147378865-0833652b-6379-4548-aa55-8b4a4debf139.jpg)
    
    - Create a table with tradable cryptocurrencies
@@ -68,14 +68,7 @@ clustering cryptocurrencies using K-means, and visualizing cryptocurrencies resu
    
    - Scale the data to create the scatter plot with tradable cryptocurrencies
    - Create a new DataFrame that has the scaled data
-   - Create a hvplot.scatter plot (2D) 
+   - Create a **2D-Scatter** 
    ![4 3](https://user-images.githubusercontent.com/89308251/147378894-bb695bbe-e82f-4fee-b0d1-be21f1ec8a32.png)
-
-
-
-
-
-
-
 
 
